@@ -1,0 +1,12 @@
+body {
+  font-family: "Baloo Bhaijaan 2", cursive;
+}
+
+.logo {
+  width: 45%;
+}
+
+.btn-primary {
+  background-color: red;
+  border-color: red;
+}
